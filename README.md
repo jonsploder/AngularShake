@@ -1,5 +1,5 @@
 # AngularShake
-Shake detection in Angular, modified for Angular and cleaned from https://github.com/alexgibson/shake.js/
+Device shaking detection in Angular, modified for Angular and cleaned from https://github.com/alexgibson/shake.js/
 
 Usage:
 
